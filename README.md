@@ -1,7 +1,7 @@
 <h1 align="center">Hola mi nombre es Luis</h1>
 <h3 align="center">Apasionado de la tecnología, videojuegos y el desarrollo móvil de vez en cuando también me gusta leer acerca del universo</h3>
 
-<p align="left"> <a href="https://twitter.com/luisdaxlda" target="blank"><img src="https://img.shields.io/twitter/follow/luisdaxlda?logo=twitter&style=for-the-badge" alt="luisdaxlda" /></a> </p>
+![](https://64.media.tumblr.com/881d776707297d0cdb358bdfea6de62e/tumblr_n11udpHvuU1tsanvjo1_500.gifv)
 
 - Trabajando en [DLMoviesApp](https://github.com/LuisLDA/DLMoviesApp)
 
