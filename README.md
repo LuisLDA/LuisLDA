@@ -18,7 +18,7 @@ Apasionado de la tecnología, videojuegos y el desarrollo móvil de vez en cuand
 
 - ⚡ Fanatico de **los metroidvania , anime y series de misterio**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sigueme en mis redes:</h3>
 <p align="left">
 <a href="https://twitter.com/luisdaxlda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisdaxlda" height="30" width="40" /></a>
 </p>
