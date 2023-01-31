@@ -12,7 +12,7 @@ Apasionado de la tecnología, videojuegos y el desarrollo móvil de vez en cuand
 
 - 🌱 Actualmente aprendiendo **Flutter y desarrollo Web**
 
-- 💬 Puedes preguntarme acerca de **Android**
+- 💬 Puedes preguntarme acerca de **Android y desarrollo móvil en general**
 
 - 📫 Puedes contactarme a **luisldacr@gmail.com**
 
