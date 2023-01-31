@@ -8,7 +8,7 @@ Apasionado de la tecnología, videojuegos y el desarrollo móvil de vez en cuand
 
 
 
-- Trabajando en [DLMoviesApp](https://github.com/LuisLDA/DLMoviesApp)
+- 🛠️ Trabajando en [DLMoviesApp](https://github.com/LuisLDA/DLMoviesApp)
 
 - 🌱 Actualmente aprendiendo **Flutter y desarrollo Web**
 
