@@ -17,6 +17,26 @@ Apasionado de la tecnología, anime, los videojuegos y el desarrollo móvil, de 
 
 - ⚡ Fanatico de **los metroidvania , anime y series de misterio**
 
+
+## Comandos utiles en Linux que he utilizado
+
+| Comando   | Descripción                                    |
+|-----------|------------------------------------------------|
+| **cd**    | Permite cambiar de directorio                  |
+| **touch** | Crear un archivo                               |
+| **nano**  | Abre un editor de texto alternativo a vim      |
+| **ls**    | Lista los documentos contenidos en una carpeta |
+| **mv**    | Permite mover archivos o renombrarlos          |
+
+## Comandos alias que considero útiles
+
+```bash
+! Sirve para limpiar el terminal
+alias cl = "clear"
+! Sirve crear un directorio y acceder directamente al directorio
+alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'
+```
+---
 <h3 align="left">Sigueme en mis redes:</h3>
 <p align="left">
 <a href="https://twitter.com/luisdaxlda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisdaxlda" height="30" width="40" /></a>
