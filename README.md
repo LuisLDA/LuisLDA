@@ -3,25 +3,20 @@
   <h3>
 Apasionado de la tecnología, anime, los videojuegos y el desarrollo móvil, de vez en cuando también me gusta leer acerca del universo. Actualmente, soy estudiante.</h3>
   <img src="header.png"></img>
+
+
 </div>
 
-
-
 - 🛠️ Trabajando en [DLMoviesApp](https://github.com/LuisLDA/DLMoviesApp)
-
 - 🌱 Actualmente aprendiendo **Flutter y desarrollo Web**
-
 - 💬 Puedes preguntarme acerca de **Android y desarrollo móvil en general**
-
 - 📫 Puedes contactarme a **luisldacr@gmail.com**
-
 - ⚡ Fanatico de **los metroidvania , anime y series de misterio**
-
 
 ## Comandos utiles en Linux que he utilizado
 
-| Comando   | Descripción                                    |
-|-----------|------------------------------------------------|
+| Comando         | Descripción                                   |
+| --------------- | ---------------------------------------------- |
 | **cd**    | Permite cambiar de directorio                  |
 | **touch** | Crear un archivo                               |
 | **nano**  | Abre un editor de texto alternativo a vim      |
@@ -36,7 +31,9 @@ alias cl = "clear"
 ! Sirve crear un directorio y acceder directamente al directorio
 alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'
 ```
+
 ---
+
 <h3 align="left">Sigueme en mis redes:</h3>
 <p align="left">
 <a href="https://twitter.com/luisdaxlda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisdaxlda" height="30" width="40" /></a>
@@ -48,4 +45,3 @@ alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luislda&" alt="luislda" /></p>
 </div>
-
