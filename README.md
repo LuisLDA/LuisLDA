@@ -1,38 +1,18 @@
-![Header](./Sources/github-header-image.png)
 
-<h1 align="center">Hola mi nombre es Luis</h1>
 <div align="center">
-  <h3>
-Apasionado de la tecnología, anime, los videojuegos y el desarrollo móvil, de vez en cuando también me gusta leer acerca del universo. Actualmente, soy estudiante.</h3>
-  <img src="header.png"></img>
-
-
+  <img src="./Sources/github-header-image.png" width="100%"></img>
 </div>
+
+## 🚀 About Me
+Apasionado de la tecnología, anime, los videojuegos y el desarrollo móvil, de vez en cuando también me gusta leer acerca del universo. Actualmente, soy estudiante.</h3>
+
+
 
 - 🛠️ Trabajando en [DLMoviesApp](https://github.com/LuisLDA/DLMoviesApp)
 - 🌱 Actualmente aprendiendo **Flutter y desarrollo Web**
 - 💬 Puedes preguntarme acerca de **Android y desarrollo móvil en general**
 - 📫 Puedes contactarme a **luisldacr@gmail.com**
 - ⚡ Fanatico de **los metroidvania , anime y series de misterio**
-
-## Comandos utiles en Linux que he utilizado
-
-| Comando         | Descripción                                   |
-| --------------- | ---------------------------------------------- |
-| **cd**    | Permite cambiar de directorio                  |
-| **touch** | Crear un archivo                               |
-| **nano**  | Abre un editor de texto alternativo a vim      |
-| **ls**    | Lista los documentos contenidos en una carpeta |
-| **mv**    | Permite mover archivos o renombrarlos          |
-
-## Comandos alias que considero útiles
-
-```bash
-! Sirve para limpiar el terminal
-alias cl = "clear"
-! Sirve crear un directorio y acceder directamente al directorio
-alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'
-```
 
 ---
 
