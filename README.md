@@ -2,7 +2,7 @@
 <div align="center">
   <h3>
 Apasionado de la tecnología, anime, los videojuegos y el desarrollo móvil, de vez en cuando también me gusta leer acerca del universo. Actualmente, soy estudiante.</h3>
-  <img src="https://64.media.tumblr.com/881d776707297d0cdb358bdfea6de62e/tumblr_n11udpHvuU1tsanvjo1_500.gifv"></img>
+  <img src="header.png"></img>
 </div>
 
 
